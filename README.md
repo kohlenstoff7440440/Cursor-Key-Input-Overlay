@@ -4,7 +4,7 @@
 
 ## [한국어]설치
 
-1. 위의 Click Here을 클릭 후 해당 사이트 아래 Assets에 있는  `cursor_key_input_overlay-0.1.0-windows-x64.zip`를 다운해주세요.
+1. 위의 Click Here을 클릭 후 해당 사이트 아래 Assets에 있는  `cursor_key_input_overlay-1.0.2-windows-x64.zip`를 다운해주세요.
 2. OBS Studio를 종료합니다.
 3. ZIP 파일을 OBS Studio 설치 디렉터리에 압축을 풉니다.
 일반적인 OBS 설치 환경의 경우, 최종 DLL 파일 위치는 다음과 같아야 합니다:
@@ -24,11 +24,11 @@ obs-studio/
 
 * `Cursor Input Overlay`
 * `Keyboard Input Overlay`
-
+* `History Input Overlay`
 
 ## [ENG]Installation
 
-1. Please download `cursor_key_input_overlay-0.1.0-windows-x64.zip` from the “Assets” section below.
+1. Please download `cursor_key_input_overlay-1.0.2-windows-x64.zip` from the “Assets” section below.
 
 2. Close OBS Studio.
 
@@ -51,3 +51,4 @@ You should see:
 
 * `Cursor Input Overlay`
 * `Keyboard Input Overlay`
+* `History Input Overlay`
