@@ -1,6 +1,6 @@
 ## Download
 
-[Click Here(Github release page)](https://github.com/kohlenstoff7440440/Cursor-Key-Input-Overlay/releases/tag/v0.1.0)
+[Click Here(Github release page)](https://github.com/kohlenstoff7440440/Cursor-Key-Input-Overlay/releases/tag/v1.0.2)
 
 ## [한국어]설치
 
