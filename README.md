@@ -1,10 +1,9 @@
 ## Download
 [Click Here(Github release page)](https://github.com/kohlenstoff7440440/Cursor-Key-Input-Overlay/releases#release-v1.1)
 
-<img width="800" height="450" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/004a0530-0471-4181-bf2e-59edeeeef72f" />
-<img width="800" height="450" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/7d0e5a6d-1bc4-421f-91fb-5a1db3b7b890" />
-<img width="800" height="450" alt="Timeline13-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/fefbcf76-7995-4797-9e16-d1c95756e088" />
-
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/24a70d46-4190-4ace-b9fa-e42d0cda9646" />
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/46af6aed-bf5e-4b09-ba24-28436fadbbb6" />
+<img width="1280" height="720" alt="Timeline13-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/afe3e175-bc88-4e5e-a8ef-f34ffc4de3f9" />
 
 ## [한국어]설명
 키보드 입력과 마우스 클릭을 감지하여 OBS 화면에 표시하는 오버레이 플러그인입니다.
