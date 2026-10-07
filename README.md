@@ -66,3 +66,7 @@ Main features include:
 
 - Keyboard
   - Adjust the spacing between keys
+
+ ## License
+PressHUD is licensed under the GNU General Public License v2.0 or later (GPL-2.0-or-later).
+See the [LICENSE](LICENSE) file for details.
