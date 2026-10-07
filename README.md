@@ -1,12 +1,13 @@
 ## Download
-[Click Here(Github release page)](https://github.com/kohlenstoff7440440/Cursor-Key-Input-Overlay/releases#release-v1.1)
-
+[Click Here(Github release page)](https://github.com/kohlenstoff7440440/PressHUD/releases/tag/v1.1)
+[클릭(깃허브 릴리스 페이지)](https://github.com/kohlenstoff7440440/PressHUD/releases/tag/v1.1)
+##
 <img width="800" height="450" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/24a70d46-4190-4ace-b9fa-e42d0cda9646" />
 <img width="800" height="450" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/46af6aed-bf5e-4b09-ba24-28436fadbbb6" />
 <img width="1280" height="720" alt="Timeline13-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/afe3e175-bc88-4e5e-a8ef-f34ffc4de3f9" />
 
-## [한국어]설명
-키보드 입력과 마우스 클릭을 감지하여 OBS 화면에 표시하는 오버레이 플러그인입니다.
+## 설명
+PressHUD는 키보드 입력과 마우스 클릭을 감지하여 OBS 화면에 표시하는 오버레이 플러그인입니다.
 주요 기능은 다음과 같습니다.
 - 전체 키보드 입력 오버레이
 - 현재 입력 키 및 입력 히스토리 표시
@@ -34,32 +35,33 @@
 - 키보드
   - 키 사이 간격
 
-## [English] Description
-An OBS overlay plugin that detects keyboard input and mouse clicks and displays them on screen.
-Main features:
+## Description
+PressHUD is an OBS overlay plugin that detects keyboard input and mouse clicks and displays them on screen.
+
+Main features include:
+
 - Full keyboard input overlay
-- Current key input and input history display
+- Display of the current key input and input history
 - Key input and mouse click display next to the mouse cursor
 
-Customizable Settings
+### Configurable Settings
 
 - Common
-  - Individually choose which keys are displayed or detected
-  - Toggle left/right distinction for Ctrl / Shift / Alt
-  - Change font and text size
-  - Adjust text, background, input response, and border colors, as well as size and opacity
+  - Select individual keys to display or detect
+  - Enable or disable separate left/right handling for Ctrl / Shift / Alt
+  - Change the font and text size
+  - Adjust text, background, input-response, and border colors, as well as size and opacity
 
-- Key input and mouse clicks next to the cursor
+- Key Input and Click Display Next to the Cursor
+  - Adjust the simultaneous input detection window in milliseconds
+  - Adjust the overlay position and fine-tune its placement
+  - Enable or disable left/right click indicators individually
+  - Adjust key hold time, fade time, and flash time
 
-  - Adjust simultaneous input detection window (ms)
-  - Adjust overlay position and fine positioning
-  - Toggle left/right mouse click indicators individually
-  - Adjust key hold time / fade time / flash time
-
-- Key input and history
-  - Adjust simultaneous input detection window (ms)
+- Current Key and Input History
+  - Adjust the simultaneous input detection window in milliseconds
   - Adjust the number of history entries displayed
-  - Configure history display direction and alignment
+  - Configure the history display direction and alignment
 
 - Keyboard
-  - Adjust spacing between keys
+  - Adjust the spacing between keys
